@@ -1,2 +1,3 @@
 # finalproject
-파이널프로젝트팀원공유
+DB id : skycastle
+DB pw : 1234
