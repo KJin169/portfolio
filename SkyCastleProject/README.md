@@ -1,3 +1,3 @@
 # finalproject
-DB id : skycastle
+DB id : skycastle <br>
 DB pw : 1234
